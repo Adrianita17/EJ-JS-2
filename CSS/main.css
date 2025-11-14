@@ -49,17 +49,18 @@ h1 {
     box-shadow: 0 0 10px #97f3b7;
 }
 
-.cara.frontal{
+.cara.frontal {
     background-color: #1a2531;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.cara.frontal img{
+.cara.frontal img {
     width: 80%;
     height: 80%;
 }
+
 .cara.trasera {
     background-color: #e0f7fa;
     transform: rotateY(180deg);
@@ -67,6 +68,7 @@ h1 {
     align-items: center;
     justify-content: center;
 }
+
 .cara.trasera img {
     width: 90%;
     height: 90%;
